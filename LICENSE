@@ -1,0 +1,85 @@
+Lux Research License with Patent Reservation
+Version 1.0, December 2025
+
+Copyright (c) 2020-2025 Lux Industries Inc.
+All rights reserved.
+
+PATENT PENDING TECHNOLOGY
+Contact: oss@lux.network
+
+================================================================================
+                          IMPORTANT NOTICE
+================================================================================
+
+This software is an ORIGINAL IMPLEMENTATION written from scratch by Lux
+Industries Inc. It is NOT derived from any third-party FHE library including
+but not limited to Zama, OpenFHE, SEAL, HElib, or any other implementation.
+
+Our implementation is based solely on published academic research:
+- Chillotti et al. "TFHE: Fast Fully Homomorphic Encryption Over the Torus"
+  (Journal of Cryptology, 2020)
+- Ducas & Micciancio "FHEW: Bootstrapping Homomorphic Encryption in Less
+  Than a Second" (EUROCRYPT 2015)
+
+Key innovations protected by our patent portfolio include:
+- Pure Go TFHE Implementation Without CGO Dependencies
+- Deterministic FHE Random Number Generation for Blockchain Consensus
+- Transaction-Batch Amortized Bootstrapping for Block-Level Optimization
+- Lazy Carry Propagation with Deterministic Noise Tracking
+- Batch DAG Execution for FHE Operations with GPU Acceleration
+- Precompile Gas Metering for Variable-Cost FHE Operations
+
+================================================================================
+                          LICENSE TERMS
+================================================================================
+
+1. RESEARCH USE LICENSE
+
+   You may freely use, copy, and modify this Software for:
+   (a) Non-commercial academic research
+   (b) Education and personal study
+   (c) Evaluation and prototyping
+
+2. LUX NETWORK LICENSE
+
+   You may freely use this Software for:
+   (a) Smart contracts deployed on Lux Network mainnet or testnet
+   (b) Applications interacting with Lux Network
+   (c) Validators operating on Lux Network
+   (d) Development tools targeting Lux Network
+
+3. COMMERCIAL USE
+
+   Any commercial use outside the Lux Network ecosystem requires a separate
+   commercial license from Lux Industries Inc.
+   
+   Contact: oss@lux.network
+
+4. RESTRICTIONS
+
+   You may NOT:
+   (a) Use this Software commercially on competing blockchain networks
+       without a commercial license
+   (b) Remove or alter copyright, patent, or attribution notices
+   (c) Claim this Software as your original work
+   (d) File patent applications covering technology derived from this Software
+
+5. PATENT RIGHTS
+
+   ALL PATENT RIGHTS ARE RESERVED by Lux Industries Inc.
+   This license does not grant any patent license.
+
+6. DISCLAIMER
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+7. TERMINATION
+
+   This License terminates immediately upon any breach.
+
+================================================================================
+
+Contact: oss@lux.network
+Website: https://lux.network
+
+© 2020-2025 Lux Industries Inc. All rights reserved.
