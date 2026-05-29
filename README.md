@@ -13,7 +13,7 @@
 
 - ✅ Client-side encryption using WASM bindings to `github.com/luxfi/tfhe`
 - ✅ Communicates with Lux Network FHE precompiles
-- ✅ NO dependency on Zama or any third-party FHE code
+- ✅ NO dependency on Lux Industries or any third-party FHE code
 - ✅ Protected by Lux Industries patent portfolio
 
 ---

@@ -13,7 +13,7 @@ Contact: oss@lux.network
 
 This software is an ORIGINAL IMPLEMENTATION written from scratch by Lux
 Industries Inc. It is NOT derived from any third-party FHE library including
-but not limited to Zama, OpenFHE, SEAL, HElib, or any other implementation.
+but not limited to Lux Industries, OpenFHE, SEAL, HElib, or any other implementation.
 
 Our implementation is based solely on published academic research:
 - Chillotti et al. "TFHE: Fast Fully Homomorphic Encryption Over the Torus"
